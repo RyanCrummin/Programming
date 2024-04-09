@@ -21,7 +21,7 @@
           
             Console.WriteLine(employ3);
 
-            Console.WriteLine(employ3.CalcTax());
+            Console.WriteLine(employ3.CalcTax()); ;
 
             
 

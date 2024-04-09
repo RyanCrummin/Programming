@@ -134,7 +134,7 @@ namespace Inheritcane_Week8
         public double CalcTax()
 
         {
-            return 0.4 * CalcPay();
+            return 0.4 * CalcPay(); ;
         }
 
     }
